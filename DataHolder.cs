@@ -1,0 +1,7 @@
+﻿using System;
+
+public static class DataHolder
+{
+    // Data to be displayed in the GameoverUI scene
+    public static string DataToDisplay;
+}
